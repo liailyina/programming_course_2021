@@ -1,2 +1,2 @@
 # programming_course_2021
-hello, it's test project
+print('Hello, it is a new project! WOW!')
